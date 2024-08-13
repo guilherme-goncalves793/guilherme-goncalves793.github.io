@@ -13,14 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Change directory to CV
+        run: cd CV
+
       - name: Set up LaTeX environment
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: CV/main.tex  # specify the path to your main.tex file
-          latexmk_use_lualatex: true  # or another LaTeX engine of your choice
+          root_file: main.tex  # No need to include CV/ since we're already in the CV directory
+          latexmk_use_pdflatex: true  # use pdflatex as the LaTeX engine
 
       - name: Upload compiled PDF
         uses: actions/upload-artifact@v3
         with:
           name: compiled-pdf
-          path: CV/main.pdf  # adjust this path if necessary
+          path: main.pdf  # Since we're in CV, this is correct
