@@ -20,7 +20,7 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: main.tex  # No need to include CV/ since we're already in the CV directory
-          latexmk_use_pdflatex: true  # use pdflatex as the LaTeX engine
+          latexmk_use_lualatex: true  # or another LaTeX engine of your choice
 
       - name: Upload compiled PDF
         uses: actions/upload-artifact@v3
