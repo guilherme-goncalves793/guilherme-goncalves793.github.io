@@ -24,7 +24,6 @@ author:
   avatar           : "profile.png"
   name             : "Guilherme Gonçalves"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Lisbon,Portugal"
   employer        : "Master's Student @ IST"
   employer        : "Security Engineer @ Inspiring Solutions"
@@ -204,6 +203,12 @@ collections:
   academic:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  certifications:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -245,6 +250,22 @@ defaults:
   - scope:
       path: ""
       type: academic
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _certifications
+  - scope:
+      path: ""
+      type: certifications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+   # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true

@@ -11,35 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Engineering, Instituto Superior Técnico, 2022
+* M.S. in Computer Science and Engineering, Instituto Superior Técnico, 2024 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 01/01/2023 - Present: Security Engineering @ Inspiring Solutions
+  * My daily responsibilities involved:
+    * Bridging the gap between the security-oriented solutions offered by our partners (IBM, Palo Alto, Checkpoint, etc...) and our customers.
+    * Implementing those solutions in the clients
+    * Providing client support for the implemented solutions by managing them
+  * I assisted the Security and Network team at Banco de Investimento Global (BiG). This included managing the bank's:
+    * Firewalls
+    * Policies
+    * Privilege and Non Privilege Accesses
+    * Networks
+    * SIEM
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 19/09/2020 - 30/6/2021: Mentoring Program @ Instituto Superior Técnico
+  * This program focus on helping the IST's new students in everything they might need. Its a yearly program, which I participated for two years.
+  * The program starts on the first day of classes, where I was tasked with giving a tour around the campus and helping them with enrolling in the university.
+  * Then throughout the year, I'd be in charge of a group of 5 new students, which I'd help in anything they needed from simples things as where's the super market to sharing my classes' notes with them
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* C , C++ Programing
+* Programing: Python
+* Ability to easily learn new information and tasks
+* Programing: Prolog
+* I like teamwork
+* Programing: Javascript
+* Knowledge of Git
+* Shell programing
+* Programing: Java
+* Endpoint Security
+* Cyber-Security
+* Vulnerability Assessment
+* Network Security
+* Network Security Implementation
+* Linux
+* Information Security
+* SIEM
+* Firewall Management
+* IAM
+* Computer Networks
+* Distributed Systems
+* Teaching
 
 Publications
 ======
@@ -47,18 +66,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+  <!-- <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+
+Certifications
+======
+  <!-- <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->

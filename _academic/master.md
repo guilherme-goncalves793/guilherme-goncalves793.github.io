@@ -1,5 +1,5 @@
 ---
-title: 'Masters Projects'
+title: 'Masters'
 collection: academic
 start_date: "2022-09-15"
 end_date: "2024-11-24"

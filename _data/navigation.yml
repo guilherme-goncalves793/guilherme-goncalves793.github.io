@@ -19,3 +19,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Certications"
+    url: /certifications/
+
+  - title: "Awards"
+    url: /awards/

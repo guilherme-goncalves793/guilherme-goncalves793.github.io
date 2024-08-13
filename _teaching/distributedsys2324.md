@@ -1,11 +1,11 @@
 ---
-title: "Teaching Assistant - Computer Networks (2022/2023)"
+title: "Teaching Assistant - Computer Networks (2023/2024)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2223computernetworks
-venue: "Instituto Superior Técnico, DEEC"
-start_date: "2022-11-15"
-end_date: "2023-02-14"
+permalink: /teaching/2324computernetworks
+venue: "Instituto Superior Técnico, DEIC"
+start_date: "2024-03-02"
+end_date: "2024-07-15"
 location: "Lisbon, Portugal"
 ---
 
