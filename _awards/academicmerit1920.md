@@ -11,3 +11,5 @@ awarded: 2021-05-23
 {% endif %}
 
 I was awarded the Academic Merit award diploma for my results during the academic year of 2019/2020.
+
+![Academic Merit Award](../files/merit_20192020.png)

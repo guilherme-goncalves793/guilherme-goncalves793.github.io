@@ -75,12 +75,12 @@ Teaching
 
 Awards
 ======
-  <!-- <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.awards reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 Certifications
 ======
-  <!-- <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.certifications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
