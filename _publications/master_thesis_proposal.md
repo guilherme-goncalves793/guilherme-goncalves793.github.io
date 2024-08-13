@@ -1,7 +1,7 @@
 ---
 title: "Master Thesis Proposal"
 collection: publications
-category: manuscripts
+category: thesis
 permalink: /publication/master_thesis_proposal
 excerpt: 'Describes the work I propose to do in my Master Thesis'
 date: 2024-01-12

@@ -1,7 +1,7 @@
 ---
 title: "Master Thesis"
 collection: publications
-category: manuscripts
+category: thesis
 permalink: /publication/master_thesis
 excerpt: 'Still being developed'
 date: 2024-01-12

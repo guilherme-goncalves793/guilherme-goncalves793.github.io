@@ -48,6 +48,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  thesis:
+    title: 'Thesis'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -189,21 +191,13 @@ collections:
   writeups:
     output: true
     permalink: /:collection/:path/
+  academic:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -233,6 +227,14 @@ defaults:
   - scope:
       path: ""
       type: writeups
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _academic
+  - scope:
+      path: ""
+      type: academic
     values:
       layout: single
       author_profile: true
