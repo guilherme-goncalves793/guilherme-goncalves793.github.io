@@ -1,5 +1,6 @@
 ---
-title: 'Master's Projects'
+title: 'Masters Projects'
+date: '2019-09-15 -> 2022-07-15'
 permalink: /academic/masters/
 ---
 
