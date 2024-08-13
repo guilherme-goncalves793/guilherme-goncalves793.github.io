@@ -38,16 +38,6 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'publications' %}
-          <p>Published in {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'academic' or post.collection == 'teaching'  %}
-          {% if post.start_date and post.end_date %}
-            <p><strong>Duration:</strong>
-              {{ post.start_date | date: "%Y-%m-%d" }} -- {{ post.end_date | date: "%Y-%m-%d" }}</p>
-          {% elsif post.start_date %}
-            <p><strong>Duration:</strong>{{ post.start_date | date: "%Y-%m-%d" }} -- Present</p>
-          {% endif %}
-        {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>

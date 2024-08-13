@@ -6,13 +6,9 @@ permalink: /certifications/pccet
 awarded: 2023-03-23
 ---
 
-{% if page.awarded %}
-  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.awarded | default: "1900-01-01" | date_to_xmlschema }}">{{ page.awarded | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-{% endif %}
+<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Awarded</strong> <time datetime="2023-03-23">{{ 2023-03-23 | date: "%B %d, %Y" }}</time></p>
 
-{% if page.issuer %}
-    <p class="archive__item-excerpt" itemprop="description">Issuer: {{ page.issuer}}</p>
-{% endif %}
+  <p class="archive__item-excerpt" itemprop="description">Issuer: Palo Alto Networks</p>
 
 I was awarded the Academic Merit award diploma for my results during the academic year of 2019/2020.
 
