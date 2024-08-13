@@ -1,4 +1,8 @@
-# Dashboard
+---
+title: 'My Academic Projects'
+date: 2199-01-01
+permalink: /academic/dashboard/
+---
 
 > The projects are organized according to the corresponding study stage. Besides that, the projects I work on outside school will also be added here.
 
