@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 
-* 01/01/2023 - Present: Security Engineering @ Inspiring Solutions
+* Security Engineering @ Inspiring Solutions (01/01/2023 - Present)
   * My daily responsibilities involved:
     * Bridging the gap between the security-oriented solutions offered by our partners (IBM, Palo Alto, Checkpoint, etc...) and our customers.
     * Implementing those solutions in the clients
@@ -29,7 +29,7 @@ Work experience
     * Networks
     * SIEM
 
-* 19/09/2020 - 30/6/2021: Mentoring Program @ Instituto Superior Técnico
+* Mentoring Program @ Instituto Superior Técnico (19/09/2020 - 30/6/2021)
   * This program focus on helping the IST's new students in everything they might need. Its a yearly program, which I participated for two years.
   * The program starts on the first day of classes, where I was tasked with giving a tour around the campus and helping them with enrolling in the university.
   * Then throughout the year, I'd be in charge of a group of 5 new students, which I'd help in anything they needed from simples things as where's the super market to sharing my classes' notes with them
