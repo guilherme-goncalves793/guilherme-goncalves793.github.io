@@ -11,8 +11,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
             
-  - title: "Projects"
+  - title: "Academic"
     url: /year-archive/
+
+  - title: "Writeups"
+    url: /writeups/
     
   - title: "CV"
     url: /cv/
