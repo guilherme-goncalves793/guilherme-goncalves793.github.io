@@ -88,16 +88,16 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-    interval:
-      type: "interval"  # Custom type to indicate it's an interval
+    start_date:
+      type               : "date"
       options:
-        start_date:
-          type: "date"
-          format: "iso8601"  # Format for the start date
-        end_date:
-          type: "date"
-          format: "iso8601"  # Format for the end date
-
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+    end_date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+    
+    
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
