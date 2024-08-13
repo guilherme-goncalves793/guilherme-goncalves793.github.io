@@ -1,0 +1,26 @@
+name: Compile LaTeX Document
+
+on:
+  push:
+    branches:
+      - main  # or the branch name you want to trigger the workflow on
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up LaTeX environment
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: CV/main.tex  # specify the path to your main.tex file
+          latexmk_use_lualatex: true  # or another LaTeX engine of your choice
+
+      - name: Upload compiled PDF
+        uses: actions/upload-artifact@v3
+        with:
+          name: compiled-pdf
+          path: CV/main.pdf  # adjust this path if necessary
