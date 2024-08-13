@@ -3,8 +3,6 @@ title: 'Secured Java - Real World CTF 2022'
 permalink: /writeups/realworld2022/securedjava
 ---
 
-## Secured Java
-
 > Found a way to run untrusted java code
 > nc 139.224.248.65 1337
 

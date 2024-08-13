@@ -3,9 +3,7 @@ title: 'koncha - SECCON CTF 2022'
 permalink: /writeups/seccon2022/koncha
 ---
 
-## koncha
-
-koncha was a easy pwn challenge from SECCON 2022 quals
+> koncha was a easy pwn challenge from SECCON 2022 quals
 
 ## Analysis
 

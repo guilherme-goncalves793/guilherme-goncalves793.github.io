@@ -3,8 +3,6 @@ title: 'Baby Scan I - ASIS QUALS 2022'
 permalink: /writeups/asisquals2022/babyscanI
 ---
 
-## Baby Scan I
-
 > Is it possible to scan the thousands of resulting strings by hand? We think it’s tedious, but will get the job done!
 
 ## Intro

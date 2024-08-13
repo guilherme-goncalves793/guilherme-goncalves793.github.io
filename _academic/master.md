@@ -1,8 +1,8 @@
 ---
 title: 'Masters Projects'
-interval:
-  start_date: "2019-09-15"
-  end_date: "2022-07-15"
+collection: academic
+start_date: "2022-09-15"
+end_date: "2024-11-24"
 permalink: /academic/masters/
 ---
 

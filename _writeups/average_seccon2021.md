@@ -3,8 +3,6 @@ title: 'Average - SECCON CTF 2021'
 permalink: /writeups/seccon2021/average
 ---
 
-## Average Calculator
-
 > 129
 >
 > Average is the best representative value!
