@@ -3,6 +3,7 @@ title: "Palo Alto Certified Entry-Level Technician"
 issuer: "Palo Alto Networks"
 collection: certifications
 permalink: /certifications/pccet
+skils: Firewalls,cybersecurity
 awarded: 2023-03-23
 ---
 
