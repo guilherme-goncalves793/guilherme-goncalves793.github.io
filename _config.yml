@@ -208,7 +208,7 @@ collections:
   writeups:
     output: true
     permalink: /:collection/:path/
-  education:
+  studies:
     output: true
     permalink: /:collection/:path/
   awards:
@@ -257,10 +257,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _education
+  # _studies
   - scope:
       path: ""
-      type: education
+      type: studies
     values:
       layout: single
       author_profile: true
