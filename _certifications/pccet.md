@@ -22,5 +22,7 @@ skills:
 ## Skills
 
 {% for skill in page.skills %}
-    * skill
+
+* {{ skill }}
+  
 {% endfor %}
