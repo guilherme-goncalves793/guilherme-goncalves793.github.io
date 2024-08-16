@@ -13,3 +13,10 @@ awarded: 2023-03-23
 * Firewalls,
 * Cybersecurity
 * Cloud Security
+* Endpoint Security
+* Palo ALto NGFW
+* Cortex XDR
+* Cortex Data Lake
+* Panorama
+* WildFire
+* PANOS

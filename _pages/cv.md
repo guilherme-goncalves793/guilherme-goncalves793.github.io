@@ -37,15 +37,28 @@ Work experience
 Skills
 ======
 
-{% capture my_include %}
-  {% include_relative _certifications/pccet.md %}
-{% endcapture %}
-
-{% assign sections = my_include | split: "## Skills" %}
-{% assign skills_section = sections[1] | split: "##" | first %}
-
-## Test
-{{ skills_section }}
+* C , C++ Programing
+* Programing: Python
+* Ability to easily learn new information and tasks
+* Programing: Prolog
+* I like teamwork
+* Programing: Javascript
+* Knowledge of Git
+* Shell programing
+* Programing: Java
+* Endpoint Security
+* Cyber-Security
+* Vulnerability Assessment
+* Network Security
+* Network Security Implementation
+* Linux
+* Information Security
+* SIEM
+* Firewall Management
+* IAM
+* Computer Networks
+* Distributed Systems
+* Teaching
 
 Publications
 ======
