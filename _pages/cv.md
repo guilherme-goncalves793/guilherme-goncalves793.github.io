@@ -38,7 +38,7 @@ Skills
 ======
 
 {% capture my_include %}
-  {% include  ../_certifications/pccet.md %}
+  {% include_relative  ../_certifications/pccet.md %}
 {% endcapture %}
 
 {% assign sections = my_include | split: "## Skills" %}
