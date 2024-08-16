@@ -3,7 +3,7 @@ title: 'Masters Degree in Computer Science and Engineering'
 collection: academic
 start_date: "2022-09-15"
 end_date: "2024-11-24"
-permalink: /academic/masters/
+permalink: /education/masters/
 ---
 
 > In here you will find a summary of all the projects that I have worked on during my masters in Computer Science and Engineering, with major in Distributed Systems and Cyber Security. The subjects listed here reflect the choices I made.
