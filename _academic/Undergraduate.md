@@ -1,5 +1,5 @@
 ---
-title: 'Bachelors'
+title: 'Bachelors Degree in Computer Science and Engineering'
 collection: academic
 start_date: "2019-09-15"
 end_date: "2022-07-15"

@@ -1,5 +1,5 @@
 ---
-title: 'Masters'
+title: 'Masters Degree in Computer Science and Engineering'
 collection: academic
 start_date: "2022-09-15"
 end_date: "2024-11-24"

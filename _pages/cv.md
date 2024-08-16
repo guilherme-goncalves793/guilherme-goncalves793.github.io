@@ -18,7 +18,7 @@ Work experience
 ======
 
 * Security Engineering @ Inspiring Solutions (01/01/2023 - Present)
-  * My daily responsibilities involved:
+  * My daily responsibilities involve:
     * Bridging the gap between the security-oriented solutions offered by our partners (IBM, Palo Alto, Checkpoint, etc...) and our customers.
     * Implementing those solutions in the clients
     * Providing client support for the implemented solutions by managing them
@@ -37,28 +37,15 @@ Work experience
 Skills
 ======
 
-* C , C++ Programing
-* Programing: Python
-* Ability to easily learn new information and tasks
-* Programing: Prolog
-* I like teamwork
-* Programing: Javascript
-* Knowledge of Git
-* Shell programing
-* Programing: Java
-* Endpoint Security
-* Cyber-Security
-* Vulnerability Assessment
-* Network Security
-* Network Security Implementation
-* Linux
-* Information Security
-* SIEM
-* Firewall Management
-* IAM
-* Computer Networks
-* Distributed Systems
-* Teaching
+{% capture my_include %}
+  {% include  ../_certifications/pccet.md %}
+{% endcapture %}
+
+{% assign sections = my_include | split: "## Skills" %}
+{% assign skills_section = sections[1] | split: "##" | first %}
+
+## Test
+{{ skills_section }}
 
 Publications
 ======
