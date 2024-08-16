@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello,
+Hello!!
+
 I'm Guilherme, and welcome to my page. Here's the outline of this website
 
 + [Publications](./publications.html) - The pappers/articles/thesis I've written throughout the years
