@@ -65,9 +65,7 @@ Skills
   {% assign skills_section = post.content | split: "## Skills" | last %}
   {% assign skills_list = skills_section | split: "\n" %}
   {% for skill in skills_list %}
-    {% if skill contains "*" %}
-      {{ skill | remove: "*" | strip }}
-    {% endif %}
+    * {{ skill | remove: "*" | strip }}
   {% endfor %}
 {% endfor %}
 
