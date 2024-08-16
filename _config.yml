@@ -217,6 +217,9 @@ collections:
   certifications:
     output: true
     permalink: /:collection/:path/
+  contribuitions:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -270,10 +273,17 @@ defaults:
       layout: single
       author_profile: true
       share: true
-   # _awards
+  # _awards
   - scope:
       path: ""
       type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: contribuitions
     values:
       layout: single
       author_profile: true

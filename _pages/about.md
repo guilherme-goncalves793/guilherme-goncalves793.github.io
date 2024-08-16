@@ -18,4 +18,4 @@ I'm Guilherme, and welcome to my page. Here's the outline of this website
 + [CV](./cv.md) - My detailed Resumé
 + [Certifications](./certifications.html) - The professional certifications that I have
 + [Awards](./awards.html) - The awards I've won throughout the years
-+ [Contribuitions](./security_contributions.md) - The contribuitions I've made to the cybersecurity filed (i.e, vulnerbilities reported)
++ [Contribuitions](./contribuitions.html) - The contribuitions I've made to the cybersecurity filed

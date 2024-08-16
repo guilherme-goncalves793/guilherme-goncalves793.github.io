@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Cybersecurity Contribuitions"
-permalink: /contribuitions/
+title: Path-traversal in the NPM package `tal-page-strategies`
+permalink: /contribuitions/tal-page-strategies-vuln
 author_profile: true
 ---
 
 {% include base_path %}
-
-## Path-traversal in the NPM package `tal-page-strategies`
 
 During my research as a master student at IST (in the year of 2024), I identified a vulnerability in the NPM package `tal-page-strategies`. The developers acknowledge my efforts and have awarded me a place in their [Hall of Fame](https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/).
 
