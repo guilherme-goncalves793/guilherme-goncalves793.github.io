@@ -9,12 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-**A PDF version of this information can be found [here](../files/CV.pdf)**
+**My CV in PDF format is [here](../files/CV.pdf)**
 
 Education
 ======
 * B.S. in Computer Science and Engineering, Instituto Superior Técnico, 2022
 * M.S. in Computer Science and Engineering, Instituto Superior Técnico, 2024 (expected)
+
+Languages
+======
+
+Portugues - Native
+English - B2
+German - A1
 
 Work experience
 ======
