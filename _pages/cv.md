@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**A PDF version of this information can be found [here](../files/CV.pdf)**
+
 Education
 ======
 * B.S. in Computer Science and Engineering, Instituto Superior Técnico, 2022
@@ -37,14 +39,17 @@ Work experience
 Skills
 ======
 
-* Programing: Python, C , C++, Java, C#, Prolog, Javascript, bash,powershell
+* Programing: Python, C , C++, Java, C#, Prolog, Javascript, bash, powershell
 * Ability to easily learn new information and tasks
 * Teamwork
 * Knowledge of Git
 * Linux
+* Windows
+* Mac
 * Computer Networks
 * Distributed Systems
 * Teaching
+* BlockChain
 
 {% assign all_skills = "" | split: "" %}  
 

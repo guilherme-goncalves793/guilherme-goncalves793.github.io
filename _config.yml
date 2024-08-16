@@ -21,12 +21,14 @@ repository               : "guilherme-goncalves793/guilherme-goncalves793.github
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Guilherme Gonçalves"
   pronouns         : # example: "she/her"  
   location         : "Lisbon,Portugal"
-  employer        : "Master's Student @ IST"
-  employer        : "Security Engineer @ Inspiring Solutions"
+  employer         : 
+    - "Master Student @ IST"
+    - "Security Engineer @ Inspiring Solutions"
+
   uri              : # URL
   email            : "guilherme.goncalves.work@gmail.com" 
 
