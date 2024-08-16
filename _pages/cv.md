@@ -19,11 +19,9 @@ Education
 Languages
 ======
 
-Portugues - Native
-
-English - B2
-
-German - A1
+* Portugues - Native
+* English - B2
+* German - A1
 
 Work experience
 ======
