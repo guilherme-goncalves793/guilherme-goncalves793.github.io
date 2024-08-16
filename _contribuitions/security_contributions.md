@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Path-traversal in the NPM package `tal-page-strategies`
+title: Path-traversal in the NPM package tal-page-strategies
 permalink: /contribuitions/tal-page-strategies-vuln
 author_profile: true
 ---
