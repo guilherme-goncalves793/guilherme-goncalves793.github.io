@@ -4,7 +4,7 @@ issuer: "Palo Alto Networks"
 collection: certifications
 permalink: /certifications/pccet
 awarded: 2023-03-23
-skils:
+skills:
     - Firewalls,
     - Cybersecurity
     - Cloud Security
