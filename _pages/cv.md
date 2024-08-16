@@ -20,7 +20,9 @@ Languages
 ======
 
 Portugues - Native
+
 English - B2
+
 German - A1
 
 Work experience
