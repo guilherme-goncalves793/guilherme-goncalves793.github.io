@@ -62,7 +62,11 @@ Skills
 
 * Test
 {% for post in site.certifications %}
-  {% assign skills_section = post.content | split: "## Skills" | last %}
+  {% for skill in page.skills %}
+
+* {{ skill }}
+  
+{% endfor %}
 {% endfor %}
 
 Publications
