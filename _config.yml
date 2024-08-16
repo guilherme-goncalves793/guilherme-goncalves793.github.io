@@ -206,7 +206,7 @@ collections:
   writeups:
     output: true
     permalink: /:collection/:path/
-  academic:
+  education:
     output: true
     permalink: /:collection/:path/
   awards:
