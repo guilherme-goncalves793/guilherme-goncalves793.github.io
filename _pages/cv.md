@@ -37,37 +37,30 @@ Work experience
 Skills
 ======
 
-* C , C++ Programing
-* Programing: Python
+* Programing: Python, C , C++, Java, C#, Prolog, Javascript, bash,powershell
 * Ability to easily learn new information and tasks
-* Programing: Prolog
-* I like teamwork
-* Programing: Javascript
+* Teamwork
 * Knowledge of Git
-* Shell programing
-* Programing: Java
-* Endpoint Security
-* Cyber-Security
-* Vulnerability Assessment
-* Network Security
-* Network Security Implementation
 * Linux
-* Information Security
-* SIEM
-* Firewall Management
-* IAM
 * Computer Networks
 * Distributed Systems
 * Teaching
 
-* Test
+{% assign all_skills = "" | split: "" %}  
+
 {% for post in site.certifications %}
   {% for skill in post.skills %}
+    {% assign all_skills = all_skills | push: skill %}
+  {% endfor %}
+{% endfor %}
+
+{% assign unique_skills = all_skills | uniq %} 
+
+{% for skill in unique_skills %}
 
 * {{ skill }}
-  
 {% endfor %}
-{% endfor %}
+
 
 Publications
 ======
