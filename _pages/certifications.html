@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.certifications reversed %}
+{% assign sorted_certifications = site.certifications | sort: 'title' %}
+
+{% for post in sorted_certifications %}
   {% include archive-single.html %}
 {% endfor %}
+

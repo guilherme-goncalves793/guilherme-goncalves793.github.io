@@ -62,7 +62,7 @@ Skills
 
 * Test
 {% for post in site.certifications %}
-  {% for skill in page.skills %}
+  {% for skill in post.skills %}
 
 * {{ skill }}
   
