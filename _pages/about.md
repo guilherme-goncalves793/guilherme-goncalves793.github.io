@@ -14,6 +14,6 @@ I'm Guilherme, and welcome to my page. Here's the outline of this website
 + [Teaching](./teaching.html) - The classes I've taught over the years
 + [Academic](./academic.html) - The academic projects I've completed. Also reflects my current education
 + [Writeups](./writeups.html) - The writeups of the CTF challenges I've manage to solve
-+ [CV] - My detailed Resumé
-+ [Certifications] - The professional certifications that I have
-+ [Awards] - The awards I've won throughout the years
++ [CV](./cv.md) - My detailed Resumé
++ [Certifications](./certifications.html) - The professional certifications that I have
++ [Awards](./awards.html) - The awards I've won throughout the years
