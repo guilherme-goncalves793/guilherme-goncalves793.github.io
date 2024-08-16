@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Security Contribuitions"
+title: "Cybersecurity Contribuitions"
 permalink: /contribuitions/
 author_profile: true
 ---
