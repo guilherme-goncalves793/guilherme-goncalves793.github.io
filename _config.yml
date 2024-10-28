@@ -26,7 +26,6 @@ author:
   pronouns         : # example: "she/her"  
   location         : "Lisbon,Portugal"
   employer         : 
-    - "Master Student @ IST"
     - "Security Engineer @ IIS"
 
   uri              : # URL

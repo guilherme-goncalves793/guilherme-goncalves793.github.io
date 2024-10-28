@@ -27,15 +27,17 @@ Work experience
 ======
 
 * Security Engineering @ Inspiring Solutions (01/01/2023 - Present)
-  * My daily responsibilities involve:
-    * Bridging the gap between the security-oriented solutions offered by our partners (IBM, Palo Alto, Checkpoint, etc...) and our customers.
-    * Implementing those solutions in the clients
-    * Providing client support for the implemented solutions by managing them
-  * I assisted the Security and Network team at Banco de Investimento Global (BiG). This included managing the bank's:
+  * Currently focused on auditing the security of IT systems, which includes:
+    * IT asset inventory
+    * Security Life-Cycle Review
+    * Best Practice Assessment
+    * Vulnerability Assessment
+    * Penetration Testing
+  * In the past, I have implemented and managed security oriented solutions such as:
     * Firewalls
-    * Policies
+    * XDR
     * Privilege and Non Privilege Accesses
-    * Networks
+    * VPN
     * SIEM
 
 * Mentoring Program @ Instituto Superior Técnico (19/09/2020 - 30/6/2021)
