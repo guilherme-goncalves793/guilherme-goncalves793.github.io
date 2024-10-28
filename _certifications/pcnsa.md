@@ -3,7 +3,7 @@ title: "Palo Alto Certified Network Security Administrator"
 issuer: "Palo Alto Networks"
 collection: certifications
 permalink: /certifications/pcnsa
-awarded: 2023-03-23
+awarded: 2024-10-24
 skills:
     - Firewalls
     - Cybersecurity
