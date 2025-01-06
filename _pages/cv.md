@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Engineering, Instituto Superior Técnico, 2022
-* M.S. in Computer Science and Engineering, Instituto Superior Técnico, 2024 (expected)
+* M.S. in Computer Science and Engineering, Instituto Superior Técnico, 2024
 
 Languages
 ======
