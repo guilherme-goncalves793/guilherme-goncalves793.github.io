@@ -9,7 +9,7 @@ skills:
     - Ethical Hacker
 ---
 
-![Credential](../files/CEH.png)
+[Credential](../files/CEH.png)
 
 ## Skills
 
