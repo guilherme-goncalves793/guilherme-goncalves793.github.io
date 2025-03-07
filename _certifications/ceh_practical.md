@@ -1,15 +1,15 @@
 ---
-title: "Certified Ethical Hacker v13"
+title: "Certified Ethical Hacker Practical v13"
 issuer: "EC-Council"
 collection: certifications
-permalink: /certifications/certifiedethicalhackerv13
-awarded: 2025-01-14
+permalink: /certifications/certifiedethicalhackerpracticalv13
+awarded: 2025-02-25
 skills:
     - Pentration Tester
     - Ethical Hacker
 ---
 
-[Credential](../files/CEH.png)
+[Credential](../files/CEH_Practical.png)
 
 ## Skills
 
