@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**My CV in PDF format is [here](../files/CV.pdf)**
 
 Education
 ======
