@@ -25,7 +25,8 @@ Languages
 Work experience
 ======
 
-* Security Engineering @ Inspiring Solutions (01/01/2023 - Present)
+* Senior Pentester @ EY (5/05/2025 - Present)
+* Security Engineering @ Inspiring Solutions (01/01/2023 - 30/04/2025)
   * Currently focused on auditing the security of IT systems, which includes:
     * IT asset inventory
     * Security Life-Cycle Review
